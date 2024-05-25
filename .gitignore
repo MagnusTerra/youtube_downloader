@@ -5,3 +5,4 @@ share
 *.mp4
 *.webm
 *.cfg
+scr/__pycache__
